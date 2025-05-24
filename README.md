@@ -1,5 +1,8 @@
+# Vui Lòng Chọn Đúng Sản Phẩm Bạn Đang Quan Tâm 
+
 # Huawei Harmony OS 
-  - dành cho máy Huawei và sản phẩm của Huawei bao gồm ap wifi và điện thoại , các bạn lựa chọn đúng dòng sản phẩm hoặc hệ điều hành để cài đặt nhé 🤩
+
+  - dành cho máy Huawei , các bạn lựa chọn đúng mã sản phẩm hoặc hệ điều hành để cài đặt nhé 🤩
 
 ### App Google
 
